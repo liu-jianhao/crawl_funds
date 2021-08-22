@@ -13,3 +13,8 @@ dsn := "root:root_password@tcp(127.0.0.1:3306)/test_db?charset=utf8mb4&parseTime
 ```shell
 go run .
 ```
+
+![top10](https://user-images.githubusercontent.com/26483688/130358654-54778e8b-72e9-4287-97e7-d25aed81fca2.jpeg)
+
+![held_by_funds](https://user-images.githubusercontent.com/26483688/130358662-dc6f2d4a-1e3a-4c3c-b59d-716656a1a7d1.jpeg)
+
